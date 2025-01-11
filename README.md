@@ -15,8 +15,8 @@ In this repository, you will find the implementation of both models, along with 
 ---
 
 ## Project Structure
-- [`RNN_Sentiment_Analysis.ipynb`](./RNN_Sentiment_Analysis.ipynb): Jupyter Notebook for training and evaluating the RNN without attention.
-- [`RNN_Attention_Sentiment_Analysis.ipynb`](./RNN_Attention_Sentiment_Analysis.ipynb): Jupyter Notebook for training and evaluating the RNN with attention mechanism.
+- [`RNN_Sentiment_Analysis.ipynb`](./RNNs_Sentiment_Analysis.ipynb): Jupyter Notebook for training and evaluating the RNN without attention.
+- [`RNN_Attention_Sentiment_Analysis.ipynb`](./RNNs_Sentiment_Analysis_with_Attention.ipynb): Jupyter Notebook for training and evaluating the RNN with attention mechanism.
 - `saved_models/`: Folder containing the pre-trained models for both architectures.
 
 ---
